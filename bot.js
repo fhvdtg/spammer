@@ -152,7 +152,7 @@ if (message.content === 'spam') {
       }
 });
 
-client3.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
+client4.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
 if (message.content === 'spam') {
       let count = 0;
       let ecount = 0;
@@ -166,7 +166,7 @@ if (message.content === 'spam') {
       }
 });
 
-client3.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
+client5.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
 if (message.content === 'spam') {
       let count = 0;
       let ecount = 0;
